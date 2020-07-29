@@ -1,0 +1,44 @@
+
+<!DOCTYPE html>
+<html lang="en"> 
+<head>
+<link rel="icon" type="png" href="../images/logon1.png" />
+<meta charset="utf-8" /> 
+<title>ABOUT US</title> 
+<link rel="stylesheet" href="../css/menu.css"/>
+<link rel="stylesheet" href="../css/des.css"/>
+<link rel="stylesheet" href="../css/body.css"/>
+</head>
+<html>
+<body>
+<img src="../images/amu.jpg"width=100% height=400px/>
+<ul id="menu">
+      <ul id="gap">
+      <li><a href="home.html">Home</a></li>
+      <li><a href="amu.html">Ammunitions</a></li>
+      <li><a href="about us.html">About us</a></li>
+      <li><a href="contact us.html">Contact us</a></li>
+      <li><a href="learning.html">learning center</a></li>
+      <li><a href="signinout.html">Sign-out</a></li>
+      </ul>
+</ul> 
+
+<br><br><br><br>
+<h1><u>About us and our mission</u></h1>
+<p>
+Welcome to Southern Ammunition Co's Web site.  Please take a minute to review the products and services we offer.We carry a variety of  commercial, surplus military, and restricted ammunition as well as loading components and other miscellaneous items.  In addition to these products, we also demil small caliber ammunition.Before you leave please visit our contact page.  If you are a regular customer please use our contact form to keep your information up to date.If you are a new customer or just want to be on our mailing list, fill out and submit the contact form.Thank you for stopping by and we look forward to hearing from you.
+</p>
+
+<h1><u>Our Mission</u></h1>
+
+<p>Our mission is to anticipate our customers needs, to stay on the leading edge of technology in the ammunition industry, and provide quality ammunition and services at reasonable prices.  
+We realize our customers are our most valuable asset and we deal with every one with integrity and honesty.</p></hr>
+<br><br><br><br><br><br>
+<footer>
+<p id="new">
+Copyright, 2006, Southern Ammunition Co. Inc.
+comments: Webmaster
+</p>
+</footer>
+</body>
+</html>
